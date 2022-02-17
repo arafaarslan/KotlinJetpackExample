@@ -1,4 +1,4 @@
-# KotlinJatpackExample
+# KotlinJetpackExample
 
 
 In this example; Kotlin language and Jatpack library used.
