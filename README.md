@@ -15,3 +15,5 @@ Then jetpack Shared Preference implemented
 After that DataBinding added
 
 
+It is coded with the training given in Udemy.
+Copyrights belong to Atil Samancioglu.
